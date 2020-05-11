@@ -1,5 +1,5 @@
 repos:
-  - url: dmerej@127.0.0.1:work/tsrc-repro/git/foo.git/
+  - url: git@github.com:dmerejkowsky/foo.git
     src: foo
     copy:
      - src: copy.txt
