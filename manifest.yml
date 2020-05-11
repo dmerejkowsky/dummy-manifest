@@ -1,3 +1,6 @@
 repos:
   - url: dmerej@127.0.0.1:work/tsrc-repro/git/foo.git/
     src: foo
+    copy:
+     - src: copy.txt
+       dest: top.txt
