@@ -1,6 +1,3 @@
 repos:
-  - url: https://github.com/dmerejkowsky/foo.git
-    src: foo
-    copy:
-     - src: copy.txt
-       dest: top.txt
+  - url: git@github.com:dmerejkowsky/foo.git
+    dest: foo
