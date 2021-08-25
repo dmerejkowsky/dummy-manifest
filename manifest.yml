@@ -1,5 +1,5 @@
-repos
-  - url: git@github.com:dmerejkowsky/bar.git
+repos:
+  - url: git@github.com:dmerejkowsky/no-such-url.git
     dest: bar
 
   - url: git@github.com:dmerejkowsky/foo.git
