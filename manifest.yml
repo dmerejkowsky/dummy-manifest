@@ -1,9 +1,9 @@
 repos:
-  - url: git@github.com:dmerejkowsky/bar.git
-    dest: bar
-
   - url: git@github.com:dmerejkowsky/foo.git
     dest: foo
+
+  - url: git@github.com:dmerejkowsky/bar.git
+    dest: bar
 
   - url: git@github.com:dmerejkowsky/dummy-manifest.git
     dest: manifest
